@@ -1,0 +1,14 @@
+#users{
+    background-color: aqua;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    color: rgb(20, 20, 20);
+}
+#users li {
+    margin: 1rem;
+    border: 2px solid rgb(22, 22, 22);
+    border-radius: 0.3rem;
+    background-color: aliceblue;
+}
